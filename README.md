@@ -5,7 +5,7 @@
 ---- 
 
 - 🌱 <b>I’m currently learning Javacript.</b>
-- 💬 <b>Ask me about anything that you want.</b>
+- 💬 <b>Ask me about anything you want.</b>
 
 
 <div align="center">
