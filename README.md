@@ -1,11 +1,6 @@
 ### Hi there, it's < Blueskiy > 👋
 
-<a target="_blank" href="https://www.linkedin.com/in/filipe-andre-machado/">
-  <img align="left" alt="Linkedin" width="18px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="mailto:filipeandres@hotmail.com">
-  <img align="left" alt="E-mail" width="18px" src="https://image.flaticon.com/icons/png/512/8/8807.png" />
-</a>
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on Instagram"/>](https://www.linkedin.com/in/filipe-andre-machado/)
 
 ---- 
 
