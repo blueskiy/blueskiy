@@ -1,4 +1,4 @@
-### Hi there, it's < Blueskiy > 👋
+### Hi there, it's < Blueskiy /> 👋
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow blueskiy on LinkedIn" />](https://www.linkedin.com/in/filipe-andre-machado/)
 
