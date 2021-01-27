@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, it's <Blueskiy> 👋
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=blueskiy&show_icons=true&theme=tokyonight)
 
 <!--
 **blueskiy/blueskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
