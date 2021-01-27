@@ -12,8 +12,10 @@
 - 🌱 <b>I’m currently learning Javacript.</b>
 - 💬 <b>Ask me about anything that you want.</b>
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=blueskiy&show_icons=true&theme=buefy&line_height=15)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueskiy&theme=buefy&layout=compact)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=blueskiy&show_icons=true&theme=buefy&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=blueskiy&hide=html&theme=buefy">
+</p>
 
 <!--
 **blueskiy/blueskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
