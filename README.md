@@ -1,4 +1,4 @@
-### Hi there, it's <Blueskiy> 👋
+### Hi there, it's < Blueskiy > 👋
   
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=blueskiy&show_icons=true&theme=tokyonight)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueskiy&theme=tokyonight)
