@@ -1,7 +1,9 @@
 ### Hi there, it's < Blueskiy > 👋
+
+- 🌱 I’m currently learning ...
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=blueskiy&show_icons=true&theme=tokyonight)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueskiy&theme=tokyonight)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=blueskiy&show_icons=true&theme=buefy)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueskiy&theme=buefy)
 
 <!--
 **blueskiy/blueskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
