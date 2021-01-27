@@ -1,7 +1,6 @@
 ### Hi there, it's < Blueskiy > 👋
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on Instagram"/>](https://www.linkedin.com/in/filipe-andre-machado/)
-
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="26em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on Instagram"/>](https://www.linkedin.com/in/filipe-andre-machado/)
 ---- 
 
 - 🌱 <b>I’m currently learning Javacript.</b>
