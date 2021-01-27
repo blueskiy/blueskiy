@@ -7,7 +7,7 @@
 #### I'm a Front-End Developer working at Agência N1 in Rio de Janeiro, Brazil.
 
 - 🌌 I’m currently mastering my **Javacript** skills.
-- ⚙️ I use daily: `.js`, `.html`, `.css`, `.sass`
+- ⚙️ I use daily: `.js`, `.sass`, `.css`, `.html`
 - 💬 Ask me about anything you want.
 
 <div align="center">
