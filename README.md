@@ -9,10 +9,10 @@
 
 ---- 
 
-- 🌱 I’m currently learning Javacript.
-- 💬 Ask me about anything that you want.
+- 🌱 <b>I’m currently learning Javacript.</b>
+- 💬 <b>Ask me about anything that you want.</b>
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=blueskiy&show_icons=true&theme=buefy)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=blueskiy&show_icons=true&theme=buefy&line_height=15)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueskiy&theme=buefy&layout=compact)
 
 <!--
