@@ -1,12 +1,13 @@
 ### Hi there, it's < Blueskiy > 👋
 
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on Instagram"/>](https://www.linkedin.com/in/filipe-andre-machado/)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow blueskiy on LinkedIn" />](https://www.linkedin.com/in/filipe-andre-machado/)
 
 ---- 
 
-- 🌱 <b>I’m currently learning Javacript.</b>
-- 💬 <b>Ask me about anything you want.</b>
+#### I'm a Front-End Developer working at Agência N1 in Rio de Janeiro, Brazil.
 
+- 🌌 I’m currently mastering my **Javacript** skills.
+- 💬 Ask me about anything you want.
 
 <div align="center">
  
