@@ -8,7 +8,7 @@
 </a>
 
 ---- 
-<br>
+
 - 🌱 I’m currently learning Javacript.
 - 💬 Ask me about anything that you want.
   
