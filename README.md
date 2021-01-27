@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning ...
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=blueskiy&show_icons=true&theme=buefy)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=blueskiy&show_icons=true&theme=buefy&layout=compact)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blueskiy&theme=buefy&layout=compact)
 
 <!--
