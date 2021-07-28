@@ -7,7 +7,7 @@
 #### I'm a Front-End Developer working at Americanas SA in Rio de Janeiro, Brazil.
 
 - 🌌 I’m currently mastering my **Javacript** skills.
-- ⚙️ I use daily: `.js`, `.sass`, `.css`, `.html`
+- ⚙️ I use daily: `.js`, `.ts`, `.jsx`, `.graphql`
 - 💬 Ask me about anything you want.
 
 <div align="center">
