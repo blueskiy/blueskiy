@@ -4,7 +4,7 @@
 
 ---- 
 
-#### I'm a Front-End Developer working at Americanas SA in Rio de Janeiro, Brazil.
+#### I'm a Front-End Developer working at Hurb in Rio de Janeiro, Brazil.
 
 - 🌌 I’m currently mastering my **Javacript** skills.
 - ⚙️ I use daily: `.js`, `.ts`, `.jsx`, `.graphql`
