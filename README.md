@@ -6,8 +6,6 @@
 
 #### I'm a Software Engineer working at Hurb in Rio de Janeiro, Brazil.
 
-- 🌌 I’m currently mastering my **Javacript** skills.
-- ⚙️ I use daily: `.js`, `.ts`, `.jsx`, `.graphql`
 - 💬 Ask me about anything you want.
 
 <div align="center">
