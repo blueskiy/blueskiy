@@ -4,7 +4,7 @@
 
 ---- 
 
-#### I'm a Software Engineer working at Hurb in Rio de Janeiro, Brazil.
+#### I'm a Software Engineer working at Avenue in Rio de Janeiro, Brazil.
 
 - 💬 Ask me about anything you want.
 
